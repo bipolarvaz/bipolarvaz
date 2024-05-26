@@ -1,5 +1,5 @@
 <h1 align="center">welcome i am vaz</h1>
-<h3 align="center">proffesional skid</h3>
+<h3 align="center">professional skid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipolarvaz&label=Profile%20views&color=0e75b6&style=flat" alt="bipolarvaz" /> </p>
 
